@@ -1,0 +1,6 @@
+<Books>
+  <book id="20504" image="C011" name="C# in Depth" />
+  <book id="20505" image="C02" name="ASP.NET 2.0" />
+  <book id="20506" image="C03" name="LINQ in Action" />
+  <book id="20508" image="C04" name="Architecting Applications" />
+</Books>

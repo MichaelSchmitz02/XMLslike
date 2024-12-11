@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\bin\Debug\XMLslike.exe.config
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\bin\Debug\XMLslike.exe
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\bin\Debug\XMLslike.pdb
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\obj\Debug\XMLslike.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\obj\Debug\XMLslike.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\obj\Debug\XMLslike.exe
+C:\Users\Učenik\source\repos\XMLslike\XMLslike\obj\Debug\XMLslike.pdb
